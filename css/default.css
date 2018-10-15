@@ -30,7 +30,7 @@ body{
 }
 
 th{
-  border: 2px solid lightcoral;
+  border: 1px solid lightcoral;
   backgrond-color: mistyrose;
   padding: 5px;
   width: 100px;
@@ -38,7 +38,7 @@ th{
   }
 
 td{
-  border: 2px solid lightcoral;
+  border: 1px solid lightcoral;
   padding: 5px;
   width: 80px;
   text-align: center;
