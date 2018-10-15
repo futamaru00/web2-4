@@ -49,5 +49,21 @@ td{
   margin: 5px;
 }
 
+.btn:hover{
+  opacity: 0.5;
+}
+
+.btn:active{
+  color: white;
+}
+
+.btn-submit{
+  background-color: mistyrose;
+}
+
+.btn-reset{
+  background-color: blue;
+}
+
 
 
