@@ -44,5 +44,10 @@ td{
   text-align: center;
 }
 
+.btn{
+  -webkit-appearance: none;
+  margin: 5px;
+}
+
 
 
