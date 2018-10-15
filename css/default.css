@@ -14,7 +14,7 @@ body{
   margin-right: 30px;
 }
 
-.photo_after{
+.photo_game:after{
   content: "";
   clear: both;
   display: block;
