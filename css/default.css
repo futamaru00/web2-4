@@ -14,8 +14,21 @@ body{
   margin-right: 30px;
 }
 
+.clear_photo{
+  clear: left;
+}
+
 .photo_game:after{
   content: "";
   clear: both;
   display: block;
 }
+
+#ingredient{
+  border: 2px solid lightcoral;
+  border-collapse: collapse;
+}
+
+th, td{{
+  border: 2px solid lightcoral;
+  }
