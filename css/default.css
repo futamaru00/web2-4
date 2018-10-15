@@ -29,6 +29,20 @@ body{
   border-collapse: collapse;
 }
 
-th, td{{
+th{
   border: 2px solid lightcoral;
+  backgrond-color: mistyrose;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
   }
+
+td{
+  border: 2px solid lightcoral;
+  padding: 5px;
+  width: 80px;
+  text-align: center;
+}
+
+
+
